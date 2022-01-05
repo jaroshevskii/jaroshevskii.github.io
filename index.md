@@ -1,3 +1,9 @@
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/jaroshevskii/jaroshevskii.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 # **Глава №6. Итоговый тест**
 
 Поздравляю вас с преодолением самой длинной главы этого туториала! Если у вас не было предыдущего опыта в программировании, то эта глава, скорее всего, была для вас наиболее сложной из всех предыдущих. Однако, если вы дошли до этого момента, то всё хорошо — вы справились! Так держать!
