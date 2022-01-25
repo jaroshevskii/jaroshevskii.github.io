@@ -1,6 +1,6 @@
-[**This is 😎**](meme.md)
+[This is 😎](meme.md)
 
-[**What? HTML?**](what.html)
+[What? HTML?](what.html)
 
 # Глава №6. Итоговый тест
 
