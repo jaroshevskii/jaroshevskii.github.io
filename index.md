@@ -3,7 +3,7 @@
 [What? HTML?](what.html)
 
 <center>
-  <img src="meme.gif" alt="Meme">
+  <img src="vscode.png" alt="VSCode">
 </center>
 
 # Глава №6. Итоговый тест
