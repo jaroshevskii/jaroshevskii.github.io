@@ -2,6 +2,10 @@
 
 [What? HTML?](what.html)
 
+<center>
+  <img src="meme.gif" alt="Meme">
+</center>
+
 # Глава №6. Итоговый тест
 
 Страница на [Ravesli](https://ravesli.com/glava-6-itogovyj-test/).
