@@ -1,10 +1,15 @@
-[This is 😎](meme.md)
 
-[What? HTML?](what.html)
+<center>
+  <img src="https://img.shields.io/discord/793459927909531678" alt="Discord">
+<center>
 
 <center>
   <img src="vscode.png" alt="VSCode">
 </center>
+
+[This is 😎](meme.md)
+
+[What? HTML?](what.html)
 
 # Глава №6. Итоговый тест
 
