@@ -1,3 +1,7 @@
-[🙂](index.md)
+<p align="center">
+  <a href="https://discord.gg/UfmhQ66zNx" alt="Discord">🙂</a>
+</p>
 
-![Meme](meme.gif)
+<p align="center">
+  <img src="meme.gif" alt="Meme">
+</p>
