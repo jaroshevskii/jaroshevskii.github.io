@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/UfmhQ66zNx" alt="Discord">🙂</a>
+  <a href="index.md" alt="Discord">🙂</a>
 </p>
 
 <p align="center">
