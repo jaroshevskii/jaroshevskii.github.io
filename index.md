@@ -1,7 +1,7 @@
 
 <center>
   <img src="https://img.shields.io/discord/793459927909531678" alt="Discord">
-<center>
+</center>
 
 <center>
   <img src="vscode.png" alt="VSCode">
