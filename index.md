@@ -5,7 +5,7 @@
 </center>
 
 <center>
-	<a href="https://discord.gg/UfmhQ66zNx" alt="Discord">
+	<a href="https://www.youtube.com/channel/UCaJ3unFQ-FGTXiPOnjq6ruA" alt="Discord">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCaJ3unFQ-FGTXiPOnjq6ruA?style=social" title="Go to YouTube channel" alt="YouTube Channel Subscribers"/>
 	</a>
 	<img src="https://img.shields.io/youtube/channel/views/UCaJ3unFQ-FGTXiPOnjq6ruA?style=social" alt="YouTube Channel Views"/>
