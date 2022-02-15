@@ -13,7 +13,7 @@
   <img src="vscode.png" alt="VSCode" width="128px" height="128px">
 </p>
 
-[This is emoji page 😜](meme.md)
+[This is emoji page 😜](😜.md)
 
 [This is 😎](meme.md)
 
