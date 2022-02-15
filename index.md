@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/discord/793459927909531678?logo=discord&logoColor=ffffff&color=7389D8" title="Go to Discord server" alt="Discord" />
+  <img src="https://img.shields.io/discord/793459927909531678?logo=discord&logoColor=ffffff&color=7389D8" alt="Discord" />
 </p>
 
 <p align="center">
