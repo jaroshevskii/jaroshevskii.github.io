@@ -13,7 +13,7 @@
   <img src="vscode.png" alt="VSCode" width="128px" height="128px">
 </p>
 
-[Web-Aplication development](https://jaroshevskii.github.io/web-application-development/)
+[Web Aplication development](https://jaroshevskii.github.io/web-application-development/)
 
 [This is emoji page 😜](😜.md)
 
