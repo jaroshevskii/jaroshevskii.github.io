@@ -21,6 +21,14 @@
 
 [What? HTML?](what.html)
 
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/72662383/199593325-8d4ee43d-2b59-4046-8f58-1986728002c9.svg" alt="Snake">
+</div>
+
+---
+
 # Глава №6. Итоговый тест
 
 Страница на [Ravesli](https://ravesli.com/glava-6-itogovyj-test/).
