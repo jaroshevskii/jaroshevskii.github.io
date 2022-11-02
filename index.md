@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/youtube/channel/views/UCaJ3unFQ-FGTXiPOnjq6ruA?style=social" alt="YouTube Channel Views"/>
 </p>
 
-<p align="center">
+<p align="center" style="background-color: #0d1117;">
   <img src="https://img.shields.io/discord/793459927909531678?logo=discord&logoColor=ffffff&color=7389D8" alt="Discord" />
 </p>
 
